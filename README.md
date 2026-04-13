@@ -335,7 +335,7 @@ credit-risk-prediction/
 ## 👤 Author
 
 **Hemanth Sai Gogineni**  
-📧 hemanthsaigogineni@gmail.com  
+📧 hhemanthsai.g23@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/hemanthsaig23) | [GitHub](https://github.com/hemanthsaig23)
 
 ---
